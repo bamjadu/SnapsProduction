@@ -5,7 +5,7 @@
   "unity": "2019.3",
   "description": "Contains tools for Snaps asset production.",
   "dependencies": {
-    "com.unity.probuilder": "4.2.3"
+    "com.unity.probuilder": "4.2.3",
     "com.unity.progrids": "3.0.3-preview.6"
   }
 }
